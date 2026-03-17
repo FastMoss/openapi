@@ -2,7 +2,7 @@
 
 ## 📌 简介
 
-FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 TikTok 生态数据的访问能力，包括商品、达人、店铺、视频、直播等多维度数据。 ([openapi.fastmoss.com][1])
+FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 TikTok 生态数据的访问能力，包括商品、达人、店铺、视频、直播等多维度数据。
 
 ---
 
@@ -10,7 +10,7 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
 ### 1. 注册账号
 
-* 注册 FastMoss 账号 [https://developers.fastmoss.com/login.html]
+* 注册 [FastMoss] 账号 (https://developers.fastmoss.com/login.html)
 * 注册成功后系统会自动生成：
 
   * `client_id`
@@ -21,7 +21,7 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
 ### 2. 获取 API 凭证 
 
-进入控制台（Console）[https://developers.fastmoss.com/profile.html]：
+[进入控制台](https://developers.fastmoss.com/profile.html)
 
 * 查看 `client_id`
 * 创建并管理：
@@ -34,7 +34,7 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
 ### 3. 申请试用（可选）
 
-* 可以申请 **免费试用** (https://developers.fastmoss.com/free-trial.html)
+* 可以申请 [**免费试用** ](https://developers.fastmoss.com/free-trial.html)
 * 获取初始 API 调用额度（quota）
 
 👉 用于开发和测试阶段 
@@ -133,7 +133,7 @@ FastMoss OpenAPI 的核心流程：
 ## 🔗 官方入口
 
 * 官网：https://www.fastmoss.com/
-* 开发者平台：developers.fastmoss.com
+* 开发者平台：https://developers.fastmoss.com
 
 ---
 
