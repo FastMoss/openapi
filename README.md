@@ -34,7 +34,7 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
 ### 3. 申请试用（可选）
 
-* 可以申请 **免费试用** [https://developers.fastmoss.com/free-trial.html]
+* 可以申请 **免费试用** (https://developers.fastmoss.com/free-trial.html)
 * 获取初始 API 调用额度（quota）
 
 👉 用于开发和测试阶段 
@@ -65,7 +65,6 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
   * 本地缓存 token
   * 过期自动刷新
-
 
 ---
 
@@ -103,22 +102,7 @@ FastMoss OpenAPI 提供以下核心数据能力：
 * GMV分析
 * 直播排行榜
 
-👉 支持多维度 TikTok 电商分析 ([openapi.fastmoss.com][1])
-
----
-
-## ⚙️ SDK 支持
-
-FastMoss 提供 SDK（如 Python）：
-
-功能包括：
-
-* 自动签名请求
-* 获取 access_token
-* 刷新 token
-* 简化 API 调用流程
-
-👉 建议优先使用 SDK 提高开发效率 ([openapi.fastmoss.com][3])
+👉 更多数据正在开放中...
 
 ---
 
@@ -149,10 +133,8 @@ FastMoss OpenAPI 的核心流程：
 ## 🔗 官方入口
 
 * 官网：https://www.fastmoss.com/
-* OpenAPI：https://openapi.fastmoss.com/
+* 开发者平台：developers.fastmoss.com
 
 ---
 
-[1]: https://openapi.fastmoss.com/zh/?utm_source=github.com "FastMoss OpenAPI"
-[2]: https://openapi.fastmoss.com/docs/guide/quickStart.html?utm_source=github.com "Quick Start | FastMoss OpenAPI"
 
