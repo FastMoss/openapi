@@ -10,7 +10,7 @@ FastMoss OpenAPI 是一个面向开发者和企业的接口服务，提供对 Ti
 
 ### 1. 注册账号
 
-* [注册FastMoss账号]  (https://developers.fastmoss.com/login.html)
+* [注册FastMoss账号](https://developers.fastmoss.com/login.html)
 * 注册成功后系统会自动生成：
 
   * `client_id`
@@ -132,8 +132,8 @@ FastMoss OpenAPI 的核心流程：
 
 ## 🔗 官方入口
 
-* [进入官网：](https://www.fastmoss.com/?source=github.com)
-* [进入开发者平台]：(https://developers.fastmoss.com/?source=github.com)
+* [进入官网](https://www.fastmoss.com/?source=github.com)
+* [进入开发者平台](https://developers.fastmoss.com/?source=github.com)
 
 ---
 
